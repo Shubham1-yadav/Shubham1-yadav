@@ -1,18 +1,99 @@
-# 💫 About Me:
-🎓 First-year BTech student in Computer Science (AI & ML).<br>🐍 Learning Python and strengthening my programming fundamentals.<br>🤖 Exploring Artificial Intelligence and Machine Learning.<br>💡 Interested in building practical projects that solve real problems.<br>📈 Improving my problem-solving and Data Structures & Algorithms skills.<br>🎯 Goal: Become a skilled AI/ML engineer and contribute to real-world projects.
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shubham1-yadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shubham1-yadav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubham1-yadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hey, I'm Shubham Yadav
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎓 BTech CSE (AI & ML) | Aspiring AI/ML Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Developer+in+Progress;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://github.com/Shubham1-yadav">
+  <img src="https://img.shields.io/badge/GitHub-Shubham1--yadav-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://github.com/Shubham1-yadav?tab=repositories">
+  <img src="https://img.shields.io/badge/My-Projects-0A66C2?style=for-the-badge&logo=github" alt="Projects"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shubham1-yadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🎓 First-year BTech student in Computer Science (AI & ML).
+- 🐍 Learning Python and strengthening my programming fundamentals.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 💡 Interested in building practical projects that solve real problems.
+- 📈 Improving my problem-solving and Data Structures & Algorithms skills.
+- 🎯 Goal: Become a skilled AI/ML engineer and contribute to real-world projects.
+- 🚀 Believe in learning by building and improving every day.
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,mongodb,anaconda,cloudflare,netlify,vercel&perline=6" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham1-yadav&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1-yadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Shubham1-yadav&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+<img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake.svg" />
+
+</div>
+
+---
+
+## 🎯 My 2026 Goals
+
+- [ ] 🐍 Strengthen my Python skills.
+- [ ] 🧠 Learn Data Structures & Algorithms.
+- [ ] 🚀 Build and publish 5 real projects.
+- [ ] 🤖 Learn Machine Learning fundamentals.
+- [ ] 🌍 Make my first open-source contribution.
+- [ ] 💼 Build a strong developer portfolio.
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Amazing!
+
+<img src="https://komarev.com/ghpvc/?username=Shubham1-yadav&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+
+**"Every expert was once a beginner. Keep building. 🚀"**
+
+</div>
