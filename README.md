@@ -1,12 +1,16 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:071952,50:088395,100:00FF88&text=SHUBHAM%20YADAV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20CODE%20%7C%20INNOVATION&descAlignY=60&descSize=16" width="100%" alt="Shubham Yadav banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:071952,50:088395,100:00FF88&text=SHUBHAM%20YADAV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20CODE%20%7C%20INNOVATION&descAlignY=60&descSize=16" width="100%" alt="Shubham Yadav banner"/>
 
 <a href="https://github.com/Shubham1-yadav">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shubham+Yadav+%F0%9F%91%8B;First-Year+BTech+CSE+%7C+AI+%26+ML;Python+Developer+in+Progress;Building+Projects+%26+Learning+Every+Day" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+I%27m+Shubham+Yadav;First-Year+BTech+CSE+%7C+AI+%26+ML;Python+Developer+in+Progress;Building+Projects+%26+Learning+Every+Day" alt="Animated introduction"/>
 </a>
 
-<a href="https://github.com/Shubham1-yadav"><img src="https://img.shields.io/badge/GitHub-Profile-101820?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/></a> <a href="https://github.com/Shubham1-yadav?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-101820?style=for-the-badge&logo=github&logoColor=00FF88" alt="Projects"/></a> <a href="https://github.com/Shubham1-yadav?tab=followers"><img src="https://img.shields.io/github/followers/Shubham1-yadav?style=for-the-badge&color=00BFA6&label=Followers" alt="Followers"/></a>
+<br/>
+
+<a href="https://github.com/Shubham1-yadav"><img src="https://img.shields.io/badge/GitHub-Profile-101820?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/></a>
+<a href="https://github.com/Shubham1-yadav?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-101820?style=for-the-badge&logo=github&logoColor=00FF88" alt="Projects"/></a>
+<a href="https://github.com/Shubham1-yadav?tab=followers"><img src="https://img.shields.io/github/followers/Shubham1-yadav?style=for-the-badge&color=00BFA6&label=Followers" alt="Followers"/></a>
 
 </div>
 
@@ -48,13 +52,13 @@ print(me.current_focus())
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=py,c,html,css,js&theme=dark" alt="Programming languages"/>
 </p>
 
 **Tools & Platforms**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,anaconda,cloudflare,netlify,vercel&theme=dark" alt="Tools and platforms"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,netlify,vercel&theme=dark" alt="Tools and platforms"/>
 </p>
 
 **Python Libraries**
@@ -70,19 +74,12 @@ print(me.current_focus())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham1-yadav&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1-yadav&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=c9d1d9" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shubham1-yadav&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=9f9f9f&rank_icon=github" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1-yadav&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=9f9f9f" alt="Most used languages"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Shubham1-yadav&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub contribution streak"/>
+<br/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubham1-yadav&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub trophies"/>
+<img src="https://streak-stats.demolab.com/?user=Shubham1-yadav&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -93,8 +90,8 @@ print(me.current_focus())
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake.svg" width="100%" alt="Green contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake.svg" width="100%" alt="Green contribution snake"/>
 </picture>
 
 </div>
@@ -105,7 +102,7 @@ print(me.current_focus())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham1-yadav&bg_color=00000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://ghchart.rshah.org/00FF88/Shubham1-yadav" width="100%" alt="GitHub contribution chart"/>
 
 </div>
 
@@ -140,9 +137,9 @@ print(me.current_focus())
 
 ### 💚 Learn. Build. Experiment. Repeat.
 
-<img src="https://komarev.com/ghpvc/?username=Shubham1-yadav&style=for-the-badge&color=00FF88&label=PROFILE+VISITS" alt="Profile visits"/>
+<img src="https://hits.sh/github.com/Shubham1-yadav.svg?style=for-the-badge&color=00FF88&label=PROFILE+VISITS" alt="Profile visits"/>
 
-<br/>
+<br/><br/>
 
 *"The best way to learn is to build something real."*
 
@@ -150,4 +147,4 @@ print(me.current_focus())
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:088395,100:071952&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:00FF88,50:088395,100:071952" width="100%" alt="Footer banner"/>
