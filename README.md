@@ -39,12 +39,6 @@ me = Shubham()
 print(me.current_focus())
 ```
 
-* 🎓 Exploring computer science and AI/ML fundamentals.
-* 🐍 Strengthening my Python programming skills.
-* 🧠 Improving logic and problem-solving.
-* 🛠️ Turning ideas into practical projects.
-* 🌱 Learning something new every day.
-
 ---
 
 ## ⚡ Tech Stack
@@ -85,7 +79,7 @@ print(me.current_focus())
 
 ---
 
-## 🐍 Contribution Snake
+## 📅 Contribution Activity
 
 <div align="center">
 
@@ -93,16 +87,6 @@ print(me.current_focus())
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake.svg" width="100%" alt="Green contribution snake"/>
 </picture>
-
-</div>
-
----
-
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00FF88/Shubham1-yadav" width="100%" alt="GitHub contribution chart"/>
 
 </div>
 
