@@ -57,29 +57,17 @@
 
 ---
 
-## 🐍 My Contribution Snake
 
-<div align="center">
+<h2 align="center">🐍 My GitHub Contributions</h2>
 
-<img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake.svg" />
-
-</div>
-
----
-
-## 🎯 My 2026 Goals
-
-- [ ] 🐍 Strengthen my Python skills.
-- [ ] 🧠 Learn Data Structures & Algorithms.
-- [ ] 🚀 Build and publish 5 real projects.
-- [ ] 🤖 Learn Machine Learning fundamentals.
-- [ ] 🌍 Make my first open-source contribution.
-- [ ] 💼 Build a strong developer portfolio.
-
----
-
-## ✍️ Random Dev Quote
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake-dark.svg">
+    <img alt="Green GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Shubham1-yadav/Shubham1-yadav/output/github-snake.svg">
+  </picture>
+</p>
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote"/>
