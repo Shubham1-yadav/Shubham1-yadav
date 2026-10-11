@@ -1,9 +1,10 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071952,50:088395,100:00FF88&text=SHUBHAM%20YADAV&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=BTECH%20CSE%20%7C%20AI%20%26%20ML&descAlignY=62&descSize=16" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=0:071952,50:088395,100:00FF88&text=SHUBHAM%20YADAV&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=BTECH%20CSE%20%7C%20AI%20%26%20ML&descAlignY=62&descSize=16" width="100%" alt="Profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Python+Developer+in+Progress;Learning+by+Building+Projects;Turning+Ideas+into+Code+%F0%9F%9A%80" alt="Animated introduction"/>
+<a href="https://github.com/Shubham1-yadav">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Python+Developer+in+Progress;Learning+by+Building+Projects;Turning+Ideas+into+Code" alt="Animated introduction"/>
+</a>
 
 <p>
   <a href="https://github.com/Shubham1-yadav">
@@ -38,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,mongodb,anaconda,cloudflare,netlify,vercel&theme=dark&perline=7" width="100%" alt="Technologies and tools"/>
+<img src="https://skillicons.dev/icons?i=py,c,html,css,js,git,github,vscode,mongodb,netlify,vercel&theme=dark&perline=11" width="600" alt="Technologies and tools"/>
 
 <br/><br/>
 
@@ -53,12 +54,12 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubham1-yadav&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" alt="GitHub statistics"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1-yadav&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=c9d1d9" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shubham1-yadav&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=9f9f9f" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1-yadav&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=9f9f9f" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Shubham1-yadav&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=Shubham1-yadav&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="Contribution streak"/>
 
 </div>
 
@@ -90,12 +91,12 @@
 
 ## 🎯 My 2026 Goals
 
-- [ ] 🐍 Improve my Python skills.
-- [ ] 🧠 Learn Data Structures & Algorithms.
-- [ ] 🚀 Publish 5 practical projects.
-- [ ] 🤖 Learn Machine Learning fundamentals.
-- [ ] 🌍 Make my first open-source contribution.
-- [ ] 💼 Build a professional portfolio.
+- [ ] 🐍 Improve my Python skills
+- [ ] 🧠 Learn Data Structures & Algorithms
+- [ ] 🚀 Publish 5 practical projects
+- [ ] 🤖 Learn Machine Learning fundamentals
+- [ ] 🌍 Make my first open-source contribution
+- [ ] 💼 Build a professional portfolio
 
 ---
 
@@ -113,4 +114,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:088395,100:071952&height=90&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:00FF88,50:088395,100:071952" width="100%" alt="Footer banner"/>
