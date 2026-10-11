@@ -1,5 +1,5 @@
 
-name: Generate Snake
+name: Generate Green Snake
 
 on:
   schedule:
@@ -16,12 +16,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Shubham1-yadav
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg?color_snake=%2300FF66&color_dots=%230D1117,%230B3D20,%230E6B32,%23139B48,%2300FF66
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300FF66&color_dots=%230D1117,%230B3D20,%230E6B32,%23139B48,%2300FF66
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
