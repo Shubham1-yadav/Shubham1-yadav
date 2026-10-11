@@ -39,6 +39,12 @@ me = Shubham()
 print(me.current_focus())
 ```
 
+* 🎓 Exploring computer science and AI/ML fundamentals.
+* 🐍 Strengthening my Python programming skills.
+* 🧠 Improving logic and problem-solving.
+* 🛠️ Turning ideas into practical projects.
+* 🌱 Learning something new every day.
+
 ---
 
 ## ⚡ Tech Stack
